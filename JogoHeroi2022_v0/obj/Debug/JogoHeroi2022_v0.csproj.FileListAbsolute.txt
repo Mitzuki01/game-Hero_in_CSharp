@@ -1,0 +1,8 @@
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\bin\Debug\JogoHeroi2022_v0.exe.config
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\bin\Debug\JogoHeroi2022_v0.exe
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\bin\Debug\JogoHeroi2022_v0.pdb
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\obj\Debug\JogoHeroi2022_v0.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\obj\Debug\JogoHeroi2022_v0.MainForm.resources
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\obj\Debug\JogoHeroi2022_v0.csproj.GenerateResource.Cache
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\obj\Debug\JogoHeroi2022_v0.exe
+C:\Users\Matheus\OneDrive - Etec Centro Paula Souza\1° DSN\Documents\SharpDevelop Projects\JogoHeroi2022_v0\JogoHeroi2022_v0\obj\Debug\JogoHeroi2022_v0.pdb
